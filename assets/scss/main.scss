@@ -14,7 +14,10 @@
 @import "component/pagination";
 
 //layout
-
+@import "layout/hero-section";
+@import "layout/presentation-section";
+@import "layout/header-section";
+@import "layout/container";
 
 //pages
 @import "pages/contact";
