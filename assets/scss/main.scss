@@ -1,0 +1,27 @@
+// importaciones
+
+// abstract
+@import "abstract/variables";
+@import "abstract/mixins";
+@import "abstract/function";
+
+// base
+@import "base/reset";
+
+// components
+@import "component/buttons";
+@import "component/navbar";
+@import "component/pagination";
+
+//layout
+
+
+//pages
+@import "pages/contact";
+@import "pages/home";
+
+//themes
+@import "themes/theme";
+
+//vendors
+@import "vendors/vendors";
